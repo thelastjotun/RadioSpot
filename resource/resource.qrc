@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/controls/BasicButton.qml</file>
+        <file>qml/controls/UIButton.qml</file>
+        <file>qml/controls/UIComboBox.qml</file>
+        <file>qml/controls/UIImageButton.qml</file>
+        <file>qml/controls/UIRoundIndicator.qml</file>
+        <file>qml/controls/UISpinBox.qml</file>
+        <file>qml/controls/UISwitch.qml</file>
+        <file>qml/controls/UIText.qml</file>
+        <file>qml/controls/UIToolTip.qml</file>
+        <file>qml/svg/about.svg</file>
+        <file>qml/svg/add.svg</file>
+        <file>qml/svg/bottom2.svg</file>
+        <file>qml/svg/close_pressed.svg</file>
+        <file>qml/svg/close_unpressed.svg</file>
+        <file>qml/svg/export.svg</file>
+        <file>qml/svg/focus.svg</file>
+        <file>qml/svg/import.svg</file>
+        <file>qml/svg/remove.svg</file>
+        <file>qml/MainWindow.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/Delegate.qml</file>
+        <file>logo_tray.png</file>
+        <file>qml/controls/UIRoundIndicatorTelnet.qml</file>
+    </qresource>
+</RCC>
